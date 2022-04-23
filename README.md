@@ -1,6 +1,6 @@
 <h1 align="center">Hello world 👋, I'm Alaa Mohamed</h1>
 <h3 align="center">Frontend Developer</h3>
-<img class="d-block width-fit height-auto mx-auto rounded-1" src="/images/inflatocat.png" alt="Inflatocat">
+<img class="d-block width-fit height-auto mx-auto rounded-1"  src="/images/inflatocat.png" alt="Inflatocat">
 - 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **javascript**
