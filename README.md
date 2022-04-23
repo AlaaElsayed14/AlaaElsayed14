@@ -1,7 +1,7 @@
-<h1 align="center">Hello world 👋, I'm Alaa Mohamed</h1>
+<h1 align="center">Hi 👋, I'm Alaa Mohamed</h1>
 <h3 align="center">Frontend Developer</h3>
 <div align="center" dir="auto">
-    <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3d9cddac64abe9dfe8f0bb2effda1dd7ec37259b42ad447dfeb250f434562b50/68747470733a2f2f692e70696e696d672e636f6d2f373336782f33652f35612f30312f33653561303133343365373062613536633332666137343038643933636434372e6a7067"><img src="https://camo.githubusercontent.com/3d9cddac64abe9dfe8f0bb2effda1dd7ec37259b42ad447dfeb250f434562b50/68747470733a2f2f692e70696e696d672e636f6d2f373336782f33652f35612f30312f33653561303133343365373062613536633332666137343038643933636434372e6a7067" alt="GitHub Octocat Drinking a Cup of Coffee" height="200" data-canonical-src="https://i.pinimg.com/736x/3e/5a/01/3e5a01343e70ba56c32fa7408d93cd47.jpg" style="max-width: 100%;"></a>
+ <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/3d9cddac64abe9dfe8f0bb2effda1dd7ec37259b42ad447dfeb250f434562b50/68747470733a2f2f692e70696e696d672e636f6d2f373336782f33652f35612f30312f33653561303133343365373062613536633332666137343038643933636434372e6a7067"><img src="https://camo.githubusercontent.com/3d9cddac64abe9dfe8f0bb2effda1dd7ec37259b42ad447dfeb250f434562b50/68747470733a2f2f692e70696e696d672e636f6d2f373336782f33652f35612f30312f33653561303133343365373062613536633332666137343038643933636434372e6a7067" alt="GitHub Octocat Drinking a Cup of Coffee" height="200" data-canonical-src="https://i.pinimg.com/736x/3e/5a/01/3e5a01343e70ba56c32fa7408d93cd47.jpg" style="max-width: 100%;"></a>
 </div>
 
 - 🌱 I’m currently learning **React JS**
