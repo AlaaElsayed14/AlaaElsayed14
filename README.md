@@ -1,6 +1,6 @@
 <h1 align="center">Hello world 👋, I'm Alaa Mohamed</h1>
 <h3 align="center">Frontend Developer</h3>
-<img class="d-block width="200px" height ="200px" text-align="center" mx-auto rounded-1"  src="https://octodex.github.com/images/inflatocat.png" alt="Inflatocat">
+<img class="d-block width="200px" height ="200px" text-margin-left="300px" mx-auto rounded-1"  src="https://octodex.github.com/images/inflatocat.png" alt="Inflatocat">
 - 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **javascript**
